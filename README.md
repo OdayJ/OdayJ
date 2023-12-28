@@ -1,6 +1,6 @@
 - 👋 Hi, The name's @Oday
-- 👀 I’m interested in Web development and UI/UX research!
-- 🌱 I’m currently learning automation engineering! 
+- 👀 I’m a Front-End Developer creating interactive experiences!
+- 🌱 I’m currently learning UI/UX design!
 
 <!---
 OdayJ/OdayJ is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
